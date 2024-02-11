@@ -3,12 +3,12 @@
 class TImages{
 
   /// App Logo
-  static const String darkAppLogo = '';
-  static const String lightAppLogo = '';
+  static const String lightAppLogo = 'assets/logos/splash_E-LenDen-logos_white.png';
+  static const String darkAppLogo = 'assets/logos/splash_E-LenDen-logos_black.png';
 
   /// Social Logo
-  static const String google = '';
-  static const String facebook = '';
+  static const String google = 'assets/logos/google-icon.png';
+  static const String facebook = 'assets/logos/facebook-icon.png';
 
   /// OnBoarding image
   static const String onBoardingImage1 = 'assets/images/on_boarding_images/sammy-line-searching.gif';
