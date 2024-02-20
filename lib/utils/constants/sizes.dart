@@ -35,6 +35,9 @@ class TSizes{
   static const double spaceBtwItems = 16.0;
   static const double spaceBtwSections = 32.0;
 
+  /// Container
+  static const double loginContainer = 200.0;
+
   /// Border radius
   static const double borderRadiusSm = 4.0;
   static const double borderRadiusMd = 8.0;
@@ -65,7 +68,7 @@ class TSizes{
   /// Loading Indicator Height
   static const double loadingIndicatorSize = 36.0;
 
-  /// Grid View Sapcing
+  /// Grid View Spacing
   static const double gridViewSpacing = 16.0;
 
 }
