@@ -58,7 +58,7 @@ class loginForm extends StatelessWidget {
               width: double.infinity,
               child: ElevatedButton(
                 onPressed: () {
-                    Get.to(()=> const NavigationMenu());
+                    Get.offAll(()=> const NavigationMenu());
                 },
                 child: const Text(TTexts.signIn),
               ),
